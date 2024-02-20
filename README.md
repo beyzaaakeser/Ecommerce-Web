@@ -8,7 +8,7 @@ This e-commerce website I designed has an eye-catching and impressive appearance
 - CSS3
 - Bootstrap
 
-<h2> Visit My Car Rental Clone Website: </h2>
+<h2> Visit My E-commerce Website: </h2>
 
 - https://rymo-ecommerce-web.netlify.app
 
